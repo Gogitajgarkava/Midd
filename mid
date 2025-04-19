@@ -1,0 +1,24 @@
+{
+  "page": 1,
+  "per_page": 2,
+  "total": 2,
+  "total_pages": 1,
+  "data": [
+    {
+      "cityname": "Metzchester",
+      "description": "West",
+      "imageUrl": "https://loremflickr.com/470/1478?lock=7963384538788622",
+      "location": "Hermanstad",
+      "website": "GN",
+      "id": "1"
+    },
+    {
+      "cityname": "North Las Vegas",
+      "description": "North",
+      "imageUrl": "https://picsum.photos/seed/lurW1QS/1363/2983",
+      "location": "Oberbrunnerburgh",
+      "website": "ID",
+      "id": "2"
+    }
+  ]
+}
