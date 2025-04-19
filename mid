@@ -1,7 +1,7 @@
 {
   "page": 1,
-  "per_page": 2,
-  "total": 2,
+  "per_page": 8,
+  "total": 8,
   "total_pages": 1,
   "data": [
     {
@@ -19,6 +19,54 @@
       "location": "Oberbrunnerburgh",
       "website": "ID",
       "id": "2"
+    },
+    {
+      "cityname": "თბილისი",
+      "description": "თბილისი — საქართველოს დედაქალაქი და უდიდესი ქალაქი, რომელიც მდებარეობს მდინარე მტკვარზე. ეს არის ქვეყნის პოლიტიკური, კულტურული და ეკონომიკური ცენტრი.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Tbilisi_View_2013.JPG",
+      "location": "https://maps.app.goo.gl/VbStUmv8d7j5cNm6A",
+      "website": "https://www.tbilisi.gov.ge",
+      "id": "3"
+    },
+    {
+      "cityname": "ბათუმი",
+      "description": "ბათუმი — საქართველოს Black Sea-თან მდებარე ქალაქი, აჭარის ავტონომიური რესპუბლიკის დედაქალაქი, პოპულარული ტურისტული ადგილი.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Batumi_Boulevard.jpg",
+      "location": "https://maps.app.goo.gl/L3A3r8Vw5hG2LB72A",
+      "website": "https://batumi.ge",
+      "id": "4"
+    },
+    {
+      "cityname": "ქუთაისი",
+      "description": "ქუთაისი — დასავლეთ საქართველოს მეორე-largest ქალაქი, ისტორიულად მნიშვნელოვანი ცენტრი, სადაც მდებარეობს უძველესი ქალაქის სახელი.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/King_Kvarkvare_in_Kutaisi.jpg",
+      "location": "https://maps.app.goo.gl/fjYPH9S7WSwtZ9hN7",
+      "website": "http://kutaisi.ge",
+      "id": "5"
+    },
+    {
+      "cityname": "ზესტაფონი",
+      "description": "ზესტაფონი — ისტორიული ქალაქი დასავლეთ საქართველოში, რომელიც ცნობილია თავისი მდიდარი კულტურული მემკვიდრეობით.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Zestafoni_view.jpg",
+      "location": "https://maps.app.goo.gl/VPZV7tM7v5Szhfqk9",
+      "website": "http://zestafoni.ge",
+      "id": "6"
+    },
+    {
+      "cityname": "გორი",
+      "description": "გორი — ქალაქი ცენტრალურ საქართველოში, რომელიც ცნობილია როგორც ივანე ჯავახიშვილის სამშობლო.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Gori_2009.jpg",
+      "location": "https://maps.app.goo.gl/YfYxzctvDqjz8nbN9",
+      "website": "http://gori.ge",
+      "id": "7"
+    },
+    {
+      "cityname": "სამტრედია",
+      "description": "სამტრედია — ქალაქი დასავლეთ საქართველოში, კოტე მახარაძის სამშობლო, ცნობილია როგორც ქალაქი, რომელიც ძლიერ გავლენას ახდენს ეკონომიკაზე.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Samtredia_in_2007.jpg",
+      "location": "https://maps.app.goo.gl/MRRYD3MCTcp5rcLf9",
+      "website": "http://samtredia.ge",
+      "id": "8"
     }
   ]
 }
