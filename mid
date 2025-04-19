@@ -5,11 +5,11 @@
   "total_pages": 1,
   "data": [
     {
-      "cityname": "Metzchester",
-      "description": "West",
-      "imageUrl": "https://loremflickr.com/470/1478?lock=7963384538788622",
-      "location": "Hermanstad",
-      "website": "GN",
+      "cityname": "ზუგდიდი",
+      "description": "ზუგდიდი — დასავლეთ საქართველოს ერთ-ერთი მნიშვნელოვანი ქალაქი, სამეგრელო-ზემო სვანეთის მხარისა და ზუგდიდის მუნიციპალიტეტის ადმინისტრაციული ცენტრი. ქალაქი გაშენებულია ოდიშის დაბლობზე, მდინარე ჩხოუშის ნაპირას, ზღვის დონიდან 110 მეტრის სიმაღლეზე. თბილისიდან დაშორებულია დაახლოებით 330 კმ-ით.",
+      "imageUrl": "https://bakurianiwater.ge/cities/uploads/locations/5cfa88e267ef8.jpg",
+      "location": "https://maps.app.goo.gl/wLYxBhqUaXvQ8bXm9",
+      "website": "https://zugdidi.gov.ge/ka",
       "id": "1"
     },
     {
